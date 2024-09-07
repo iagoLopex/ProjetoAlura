@@ -36,12 +36,3 @@ Se você quiser contribuir para este projeto, fique à vontade para abrir um pul
 **Vamos juntos dominar o mundo da programação competitiva!** 
 
 **#programacaocompetitiva #algoritmos #javascript #html #css #github**
-
-**Observações:**
-
-* **Personalize:** Adapte este README para o seu projeto, adicionando mais detalhes sobre as funcionalidades, tecnologias específicas utilizadas e como contribuir.
-* **Imagens:** Inclua imagens para ilustrar a aplicação e torná-la mais atraente.
-* **Links:** Adicione links para os repositórios das bibliotecas ou frameworks utilizados, se houver.
-* **Licença:** Especifique a licença do seu projeto (por exemplo, MIT).
-
-Com este README, você terá um ponto de partida para criar uma documentação clara e concisa para o seu projeto no GitHub, facilitando a compreensão e a colaboração de outros desenvolvedores.
